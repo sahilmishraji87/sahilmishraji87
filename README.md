@@ -1,18 +1,15 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <title>Pet Lover - Pet Care Website Template</title>
+    <title>PetLover - Pet Care Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
-<img src="https://photos.google.com/u/1/lockedfolder/photo/AF1QipOrLEefaeISI1qil6YxSYF-GTXdzWWF66mgEB71" alt="dog">
+
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
-    <h2>HTML Image</h2>
-
 
     <!-- Google Web Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet"> 
@@ -651,7 +648,7 @@
     </div>
     <!-- Footer End -->
 
-<body style="background-color:powderblue;">
+
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
